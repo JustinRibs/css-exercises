@@ -1,0 +1,20 @@
+.odds {
+    background-color: rgb(172, 120, 145);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#uno {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#due {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
